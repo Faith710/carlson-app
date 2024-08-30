@@ -1,4 +1,4 @@
-# Recipe Detail Page
+# The Chronicles of Carlson 
 
 ## Table of Contents
 1. [Introduction](#introduction)
